@@ -1,0 +1,6 @@
+[submodule "Formas-AreaPerimetro"]
+	path = Formas-AreaPerimetro
+	url = git@github.com:delmiraugusto/Formas-AreaPerimetro-Java.git
+[submodule "CadastroEstudanteConsole"]
+	path = CadastroEstudanteConsole
+	url = git@github.com:delmiraugusto/CadastroEstudanteConsole-Java.git
