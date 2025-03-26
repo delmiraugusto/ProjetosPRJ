@@ -6,3 +6,7 @@
 	path = CadastroEstudanteConsole
 	url = git@github.com:delmiraugusto/CadastroEstudanteConsole-Java.git
 	branch = main
+[submodule "Calculadora"]
+	path = Calculadora
+	url = git@github.com:delmiraugusto/CalculadoraInterfaceGrafica.git
+	branch = main
